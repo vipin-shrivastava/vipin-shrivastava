@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [UVDesk - A ticketing system](https://support.uvdesk.com/en/)
 
-- 🌱 I’m currently learning **React, Node, Express & Mongodb**
+- 🌱 I’m currently learning **React, Spring Boot, Mongodb**
 
 - 💬 Ask me about **PHP, Java, & related frameworks**
 
